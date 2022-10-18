@@ -1,0 +1,19 @@
+{
+   "Gameplay": [
+      "assets-env/Gameplay"
+   ],
+   "Landmark": [
+      "assets-env/Props/Landmark",
+      "assets-env/SubstanceSharedPresets"
+   ],
+   "Roads": [
+      "assets-env/Props/Roads",
+      "assets-env/SubstanceSharedPresets"
+   ],
+   "Tutorial": [
+      "assets-env/Props/Misc/Tutorial"
+   ],
+   "Vegetation": [
+      "assets-env/Vegetation"
+   ]
+}

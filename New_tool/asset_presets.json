@@ -1,0 +1,43 @@
+{
+   "Buildings": [
+      "assets-env/Props/Buildings",
+      "MaterialSubstance"
+   ],
+   "Landmark": [
+      "assets-env/Props/Landmark",
+      "assets-env/SubstanceSharedPresets"
+   ],
+   "Stuff": [
+      "assets-env/Props/Misc",
+      "assets-env/SubstanceSharedPresets"
+   ],
+   "Roads": [
+      "assets-env/Props/Roads",
+      "assets-env/SubstanceSharedPresets"
+   ],
+   "Rocks": [
+      "assets-env/Props/Rocks",
+      "assets-env/SubstanceSharedPresets"
+   ],
+   "Vehicles": [
+      "assets-env/Props/Vehicles",
+      "assets-env/SubstanceSharedPresets"
+   ],
+   "Materials": [
+      "assets-env/MaterialLibrary",
+      "assets-env/MaterialSubstance",
+      "assets-env/SubstanceSharedPresets"
+   ],
+   "Vegetation": [
+      "assets-env/Vegetation"
+   ],
+   "Tutorial": [
+      "assets-env/Props/Misc/Tutorial"
+   ],
+   "Houdini": [
+      "assets-env/Houdini"
+   ],
+   "Gameplay": [
+      "assets-env/Gameplay"
+   ]
+}

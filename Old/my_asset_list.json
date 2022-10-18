@@ -1,0 +1,12 @@
+{
+   "Buildings": [
+      "assets-env/Props/Buildings",
+      "MaterialSubstance"
+   ],
+   "Gameplay": [
+      "assets-env/Gameplay"
+   ],
+   "Houdini": [
+      "assets-env/Houdini"
+   ]
+}
